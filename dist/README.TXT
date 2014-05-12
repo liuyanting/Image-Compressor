@@ -12,6 +12,7 @@ To run the project from the command line, go to the dist folder and
 type the following:
 
 java -jar "ImageCompressor.jar" 
+(Recommend additions: java -Xms1024M -Xmx1024M -jar “ImageCompressor.jar”)
 
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
