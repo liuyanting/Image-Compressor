@@ -623,7 +623,7 @@ public class UserFrame extends javax.swing.JFrame {
 
     private void VersionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_VersionActionPerformed
         JOptionPane.showMessageDialog(this, 
-                                      "Current version is RC1, released on 2014.05.12",
+                                      "Current version is RC2, released on 2014.05.12",
                                       "Version Info",
                                       JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_VersionActionPerformed
